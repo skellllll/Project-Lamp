@@ -1,0 +1,17 @@
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\bin\Debug\net6.0-windows\Project Lamp.exe
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\bin\Debug\net6.0-windows\Project Lamp.deps.json
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\bin\Debug\net6.0-windows\Project Lamp.runtimeconfig.json
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\bin\Debug\net6.0-windows\Project Lamp.dll
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\bin\Debug\net6.0-windows\Project Lamp.pdb
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\obj\Debug\net6.0-windows\Project_Lamp.Form1.resources
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\obj\Debug\net6.0-windows\Project_Lamp.Properties.Resources.resources
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\obj\Debug\net6.0-windows\Project Lamp.csproj.GenerateResource.cache
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\obj\Debug\net6.0-windows\Project Lamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\obj\Debug\net6.0-windows\Project Lamp.AssemblyInfoInputs.cache
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\obj\Debug\net6.0-windows\Project Lamp.AssemblyInfo.cs
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\obj\Debug\net6.0-windows\Project Lamp.csproj.CoreCompileInputs.cache
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\obj\Debug\net6.0-windows\Project Lamp.dll
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\obj\Debug\net6.0-windows\refint\Project Lamp.dll
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\obj\Debug\net6.0-windows\Project Lamp.pdb
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\obj\Debug\net6.0-windows\Project Lamp.genruntimeconfig.cache
+C:\Users\orlandi.21200\source\repos\Project Lamp\Project Lamp\obj\Debug\net6.0-windows\ref\Project Lamp.dll
